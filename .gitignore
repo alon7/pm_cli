@@ -18,7 +18,14 @@ _cgo_gotypes.go
 _cgo_export.*
 
 _testmain.go
+pm_cli
 
 *.exe
 *.test
 *.prof
+
+# Google drive credentials
+client_secret.json
+
+#Mac
+.DS_Store
